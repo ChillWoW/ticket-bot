@@ -20,7 +20,7 @@ TICKETS: {
 ACTIVITY: {
   ENABLED: true,
   STATUS: "online", // [online, idle, dnd, invisible]
-  TYPE: "WATHCING", // [PLAYING, LISTENING, WATCHING, COMPETING]
+  TYPE: "WATCHING", // [PLAYING, LISTENING, WATCHING, COMPETING]
   MESSAGE: "ChillWoW", // *
 },
 ```
